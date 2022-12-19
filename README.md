@@ -5,3 +5,4 @@
 4) Example for Pointers using C
 5) Calculation of Average using Arrays concept in C
 6) volume of cube using C
+7) Calculator using C ( 1 and 2 number operations)
