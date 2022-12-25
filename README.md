@@ -9,3 +9,4 @@
 8) Sum of n Numbers using memory allocation methods in C.( malloc and free)
 9) Program to reverse a number using C
 10) Structures Concept using with example in C
+11) String slicing using C
